@@ -1,5 +1,5 @@
 console.log("p11 project");
 
 function foo() {
-	return "foo";
+    return "foo";
 }
